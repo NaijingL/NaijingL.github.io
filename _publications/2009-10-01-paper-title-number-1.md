@@ -1,8 +1,4 @@
-\item[In prep.]	\tab{}Liu, Naijing. Working title \enquote{Middle-like semantic and verb triplet: Voicing alternate verb pairs in Tsum.} (to submit in Feb)
-        \item[In prep.]	\tab{}Liu, Naijing.Working title  \enquote{Verb stem alternations in the Tibeto-Burman language of Tsum.}
-        
-        
-        ---
+---
 title: "Middle-like semantic and verb triplet: Voicing alternate verb pairs in Tsum."
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
