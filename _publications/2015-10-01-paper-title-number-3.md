@@ -1,4 +1,3 @@
-
 ---
 title: "Diagnosing a contact history for Tsum."
 collection: publications
