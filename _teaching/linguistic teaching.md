@@ -8,22 +8,17 @@ date: 2014-01-01
 location: "Canberra, Australia"
 ---
 
-Heading 1
-======
-\subsection*{Faculty of Education, University of Canberra, unit-convenor}
+# Heading 1
+- Faculty of Education, University of Canberra, unit-convenor
+  - **G11384**: Study of Language (Postgraduate), 2024 S1
+  
+# Heading 2
+- Department of Linguistics, Australian National University, teaching assistant, tutor, and guest lecturer
     \begin{tablist}
-        \item[G11384] \tab{}\tab{}Study of Language (Postgraduate), 2024 S1
-    \end{tablist}
-
-Heading 2
-======
-\subsection*{Department of Linguistics, Australian National University, teaching assistant, tutor, and guest lecturer}
-    \begin{tablist}
-        \item[LING2010/6010] \tab{}Phonetics and Phonology, 2023, guest lecture on Non-linear Phonology.
-        \item[LING3035] \tab{}Semantic typology, 2020 \&2021, teaching assistant to Prof. Nicholas Evans. 
-        \item[LING2010/6010] \tab{}Phonetics and Phonology, 2019, guest lecture on Tone.
-        \item[LING1001] \tab{}Introduction to the study of language, 2017, tutor.
-    \end{tablist}
+  - **LING2010/6010**: Phonetics and Phonology, 2023, guest lecture on Non-linear Phonology.
+  - **LING3035**: Semantic typology, 2020 \&2021, teaching assistant to Prof. Nicholas Evans. 
+  - **LING2010/6010**: Phonetics and Phonology, 2019, guest lecture on Tone.
+  - **LING1001**: Introduction to the study of language, 2017, tutor.
 
 
 
