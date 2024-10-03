@@ -1,6 +1,6 @@
 ---
 title: "Tibeto-Burman language"
-excerpt: "Conducting fieldwork in Lower Tsum, Nepal. <br/><img src='/images/TSUM.png'>"
+excerpt: "Conducting fieldwork in Lower Tsum, Nepal. <br/><img src='/images/TSUM.jpg'>"
 collection: portfolio
 ---
 
