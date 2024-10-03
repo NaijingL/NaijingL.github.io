@@ -78,6 +78,20 @@ analytics:
     tracking_id          :
 
 
+# Publication Category - The following the list of publication categories and their headings
+publication_category:
+  journal articles:
+    title: 'Journal Articles'    
+  documentation collections:
+    title: 'Documentation Collections'
+  book reviews:
+    title: 'Book Reviews'
+  book chapter:
+    title: 'Book Chapter'
+  others:
+    title: 'Others'
+
+
 # Site Author
 author:
   name             : "Naijing Liu"

@@ -1,6 +1,7 @@
 ---
 title: "[Book review: Learning and Using Languages in Ethnographic Research. Edited by Robert Gibb, Annabel Tremlett and Julien Danero Iglesias.](https://doi.org/10.1111/1469-8676.12985)"
 collection: publications
+category: book reviews
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
 date: 2020-01-01
