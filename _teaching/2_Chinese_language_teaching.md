@@ -8,7 +8,7 @@ date: 2015-01-01
 location: "Canberra, Australia"
 ---
 
-# Heading 1
+## Heading 1
 - Chinese Studies Department, Australian National University, Course Coordinator
   - **CHIN1013**: Modern Chinese 4, 2024 S2
 - Chinese Studies Department, Australian National University, Tutor
@@ -18,11 +18,11 @@ location: "Canberra, Australia"
   - **CHIN3022**: Modern Chinese 5, 2017 & 2018
   - **CHIN2023**: Modern Chinese 2 (written), 2017
   
-# Heading 2
+## Heading 2
 - University of Botswana, lecturer (part-time)
   - **CHN302**: Intermediate Chinese, 2022
   - **CHN307**: HSK 3 Preparation, 2022
   
-# Heading 3  
+## Heading 3  
 - Canberra Language School (Language training for the Australian Federal Government)
   - **Mandarin**: Intensive language course (six-week), 2018\&2017, instructor
