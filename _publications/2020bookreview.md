@@ -1,25 +1,16 @@
 ---
-title: "Book Review"
+title: "Book review: Words of Wonders (2nd. edition and Chinese version <Yi ci Yi shijie>).by Nicholas Evans Shanghai Bookreview (published in Chinese)"
 collection: publications
 category: book reviews
 permalink: /publication/2015-10-01-paper-title-number-3
+paperurl: 'https://m.thepaper.cn/newsDetail_forward_28821434'
 excerpt: ''
-date: 2021-01-01
+date: 2024-01-01
 # venue: 'Social Anthropology/Anthropologie Sociale'
 # paperurl: 'https://doi.org/10.1111/1469-8676.12985'
-# citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 31(14-20).'
+citation: '2024 Liu, Naijing & Liang Chen. "Book review: Words of Wonders (2nd. edition and Chinese version <Yi ci Yi shijie>).by Nicholas Evans" Shanghai Bookreview (published in Chinese).https://m.thepaper.cn/newsDetail_forward_28821434'
 ---
-# whatever introduction...testing...
 
-1
-2
-3
+Download paper [here](https://m.thepaper.cn/newsDetail_forward_28821434)
 
-# another section
-
-Download paper [here](/files/Bookreview_N_Liu_2021.pdf)
-
-# third
-
-Recommended citation: Liu, Naijing. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
 
