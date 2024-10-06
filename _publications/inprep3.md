@@ -1,11 +1,11 @@
 ---
-title: "Verb stem alternations in the Tibeto-Burman language of Tsum."
+title: "Illustration of IPA: Tsum."
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2'
 category: journal articles
 excerpt: ''
 date: 2024-01-01
 venue: 'In prep.'
-citation: 'Liu, Naijing. (2010). In prep.;Verb stem alternations in the Tibeto-Burman language of Tsum.'
+citation: 'In prep. Liu, Naijing. Working title “Illustration of IPA: Tsum.”'
 ---
 Journal article in prep
