@@ -1,7 +1,7 @@
 ---
 title: "Study of monosyllabic tones in the Tianjin Dialect."
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2'
+permalink: /publication/monosyllabic_tones_in_tianjin_dialect'
 category: journal articles
 excerpt: ''
 date: 2024-01-01

@@ -1,7 +1,7 @@
 ---
 title: "Illustration of IPA: Tsum."
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2'
+permalink: /publication/illustration_of_ipa_tsum'
 category: journal articles
 excerpt: ''
 date: 2024-01-01
