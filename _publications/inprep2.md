@@ -6,6 +6,6 @@ category: journal articles
 excerpt: ''
 date: 2024-01-01
 venue: 'In prep.'
-citation: 'Liu, Naijing. (2010). In prep.;Verb stem alternations in the Tibeto-Burman language of Tsum.'
+citation: 'Liu, Naijing. In prep.;Verb stem alternations in the Tibeto-Burman language of Tsum.'
 ---
 Journal article in prep
