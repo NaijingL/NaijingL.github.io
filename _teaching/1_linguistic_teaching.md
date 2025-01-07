@@ -8,9 +8,9 @@ date: 2014-01-01
 location: "Canberra, Australia"
 ---
 
-## Faculty of Education, University of Canberra, unit-convenor
-  - **G11384**: Study of Language, 2024 S1
-  - **G11388**: English Grammar, 2024 S2
+## Faculty of Education, University of Canberra
+  - **G11384**: Study of Language, 2024 S1, unit convenor
+  - **G11388**: English Grammar, 2024 S2, unit convenor
   
 ## Department of Linguistics, Australian National University
   - **LING2010/6010**: Phonetics and Phonology, 2023, guest lecture on Non-linear Phonology.
