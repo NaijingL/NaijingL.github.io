@@ -14,7 +14,7 @@ location: "Canberra, Australia"
   
 ## Department of Linguistics, Australian National University
   - **LING2010/6010**: Phonetics and Phonology, 2023, guest lecture on Non-linear Phonology.
-  - **LING3035**: Semantic typology, 2020 \&2021, teaching assistant to Prof. Nicholas Evans. 
+  - **LING3035**: Semantic typology, 2020 & 2021, teaching assistant to Prof. Nicholas Evans. 
   - **LING2010/6010**: Phonetics and Phonology, 2019, guest lecture on Tone.
   - **LING1001**: Introduction to the study of language, 2017, tutor.
 
